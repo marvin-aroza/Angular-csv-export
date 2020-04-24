@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    text-decoration:underline;
+    font-weight: 800;
+    color: #a6120d;
+}
+
+p {
+    font-weight: 400;
+}
+
+.button {
+    width: 15%;
+    margin: 12px 800px;
+
+}
